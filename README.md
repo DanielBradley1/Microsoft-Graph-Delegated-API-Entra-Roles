@@ -1,0 +1,1 @@
+# Microsoft-Graph-Delegated-API-Entra-Roles
